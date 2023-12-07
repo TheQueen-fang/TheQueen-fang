@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nidhi-mishra-3614b2215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nidhi-mishra-3614b2215/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nidhi-mishra-3614b2215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nidhi-mishra-3614b2215/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nidhi_d_fang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nidhi_d_fang" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nidhimishra5648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nidhimishra5648" height="30" width="40" /></a>
 </p>
